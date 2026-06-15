@@ -1,8 +1,0 @@
-<flash fade="128" delay="100">
-	<frm rgb="255,255,255"/>
-	<frm rgb="255,255,0"/>
-	<frm rgb="255,128,0"/>
-	<frm rgb="255,0,0"/>
-	<frm rgb="255,0,255"/>
-	<frm rgb="128,0,255"/>
-</flash>
